@@ -4,7 +4,7 @@
   "description": "Booking.com Price Alerts",
   "main": "fluxService/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FluxOptimizer/flux/issues"
   },
-  "homepage": "https://github.com/FluxOptimizer/flux#readme"
+  "homepage": "https://github.com/FluxOptimizer/flux#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
 }
