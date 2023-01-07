@@ -1,0 +1,19 @@
+{
+  "name": "flux",
+  "version": "1.0.0",
+  "description": "Booking.com Price Alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FluxOptimizer/flux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FluxOptimizer/flux/issues"
+  },
+  "homepage": "https://github.com/FluxOptimizer/flux#readme"
+}
